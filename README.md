@@ -10,3 +10,6 @@
 使配置生效:
 
 执行tmux source ~/.tmux.conf
+
+调整窗口大小
+Ctrl + B, Alt + 方向键
