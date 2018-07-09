@@ -13,3 +13,8 @@
 
 调整窗口大小
 Ctrl + B, Alt + 方向键
+
+## vim
+
+支持鼠标滚动:
+set mouse=a
