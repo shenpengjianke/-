@@ -1,5 +1,8 @@
 # 保存vim，zsh，tmux等生产工具的配置
 
+# item2配置
+https://medium.com/statementdog-engineering/prettify-your-zsh-command-line-prompt-3ca2acc967f
+
 ## tmux
 [tmux配置](tmux.conf)
 
